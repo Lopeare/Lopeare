@@ -2,7 +2,7 @@
 
 🧠 **Currently learning:** [REACT](https://reactjs.org/) [Python](https://www.python.org/downloads/)
 
-💡 **Interested in:** `FullStack Development 🌐` `AWS 🟧` `DevOps 🚀` `Blockchain 🔗`
+💡 **Interested in:** `FullStack Development 🌐` `AWS 🟧` `DevOps 🚀` `Blockchain 🔗` 
 
 ## My Skill Set
 <div align="center">
@@ -22,7 +22,6 @@
                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
             </td>
             <td>
-                 <img src="https://img.shields.io/badge/Python-F7F7F7?style=for-the-badge&logo=python&logoColor=3776AB" /> 
                 <img src="https://img.shields.io/badge/C++-F7F7F7?style=for-the-badge&logo=cplusplus&logoColor=black" />
                 <img src="https://img.shields.io/badge/Java-F7F7F7?style=for-the-badge&?&logo=Java&logoColor=007396" />
             </td>
