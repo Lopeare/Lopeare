@@ -40,7 +40,7 @@
 ## My Stats 📈
 
 <div align="center">   
-    <img src="https://github-readme-stats.vercel.app/api?username=Lopeare&hide=contribs&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lopeare&show_icons=true" />
 </div>
 
 <div align="center">
